@@ -5,4 +5,3 @@ public class add{
 	int c=a+b;
 	System.out.println("addition: "+c);
 }
-}
